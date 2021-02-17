@@ -93,8 +93,8 @@ Click [here](https://discord.com/api/oauth2/authorize?client_id=7124288730691010
 
 By default, Renzo's prefix is set to `.`  and can be changed by doing `.config prefix <new prefix>`. For a full list of commands, type `.help` or `.help <command>` for specific details on a command.
 
-[![Discord Bots](https://top.gg/api/widget/712428873069101092.svg)](https://top.gg/bot/712428873069101092)
 
+[![Discord Bots](https://top.gg/api/widget/712428873069101092.svg)](https://top.gg/bot/712428873069101092)
 
 # Self hosting
 **I will not provide any support for self hosted versions of Renzo.**
