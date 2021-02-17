@@ -1,5 +1,6 @@
 # Renzo (Discord Bot)
 
+
 # Features
 
 - [x] Translate By Emoji Flags (New)
@@ -10,6 +11,7 @@
 - [x] Moderation
 - [x] Games
 - [x] Reddit
+
 
 # Commands (Not all)
 
@@ -85,6 +87,13 @@
 
 * **leave:** No description available.
 * **reactrole:** Reaction based roles is an intuitive way to offer your members the ability to add and remove roles to themselves.
+
+# Add to Discord
+Click [here](https://discord.com/api/oauth2/authorize?client_id=712428873069101092&permissions=808840415&scope=bot) to invite Renzo to your server. 
+
+By default, Renzo's prefix is set to `.`  and can be changed by doing `.config prefix <new prefix>`. For a full list of commands, type `.help` or `.help <command>` for specific details on a command.
+
+[![Discord Bots](https://top.gg/api/widget/712428873069101092.svg)](https://top.gg/bot/712428873069101092)
 
 
 # Self hosting
