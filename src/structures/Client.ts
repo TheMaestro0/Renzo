@@ -50,7 +50,7 @@ class Client extends DiscordClient {
 
         for (const file of utils.readdir(__dirname, '../events/')) {
             const Event = (await import(file)).default
-            const event = new Event()
+            const event = new Event(this)
             this.on(file.split(/[\\/]/).pop().slice(0, -3), (...args) => event.run(...args))
         }
 
